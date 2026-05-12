@@ -7,7 +7,7 @@ This repository is created for testing and experimentation purposes.
 
 The goal of this repository is to:
 
-- Test new features and code snippets.
+- Test newkkkk features and code snippets.
 - Experiment with different technologies and frameworks.
 - Verify integrations and workflows.
 - Practice version control using Git and GitHub.
